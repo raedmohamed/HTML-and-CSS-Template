@@ -538,6 +538,7 @@ footer {
   display: flex;
   flex-direction: column;
   gap: 20px;
+  justify-self: right;
 }
 .input-container {
   display: flex;
